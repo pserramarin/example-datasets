@@ -1,14 +1,14 @@
 # InsectAI Example Datasets and Standards Development
 
-<img src="logos/insectAI.svg" alt="InsectAI Logo" width="300"/>
+<img src="resources/insectAI.svg" alt="InsectAI Logo" width="300"/>
 
 ---
 
 ## 🧪 Contents
 
 - `datasets/` - example datasets
-- `logos/` – organization logos for use in notebooks and presentations
-- `README.md` – this file
+- `resources/` – logos and images for use in readmes, notebooks and presentations
+- `README.md` – this readme!
 
 ## About the datathon
 
@@ -22,7 +22,13 @@ We will prove to ourselves (and the world!) that we can store our data in a comm
 
 The "minidatasets" presented here demonstrate one or more of the common challenges of InsectAI data:
 
--
+- Detections or classifications from multiple models or multiple annotators for a single image
+- Large datasets, of which not all needs to be pushed to e.g. GBIF
+- Taxonomic ambiguity and coarse identifications
+- Dense time-lapse data with tracks of individuals leaving and re-entering the frame; frequent occlusions
+- Datasets that comprise regions of interest or "crops" of original source images
+- Variable labelling scope. All pollinators vs. all insects vs. all arthropods?
+
 
 # Outcomes of the datathon
 
