@@ -3,3 +3,7 @@
 
 # Python bytecode
 __pycache__/
+
+# macOS metadata files
+.DS_Store
+._*
