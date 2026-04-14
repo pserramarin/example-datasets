@@ -96,3 +96,6 @@ The "minidatasets" presented here demonstrate one or more of the common challeng
 Please consider contributing links to models and other resources for insect detection and classification below:
 
 [https://github.com/InsectAI-COST-Action/awesome-insectai.git]
+
+
+This was Dennis
